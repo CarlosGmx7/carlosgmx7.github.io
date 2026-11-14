@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.carlosgmx7.okupa",
+      "sha256_cert_fingerprints": ["6A:B2:F0:B6:C0:E8:06:CB:CC:07:68:ED:EC:F6:3F:43:74:FA:86:58:91:CB:DC:27:02:9B:5F:84:24:BD:B0:DC"]
+    }
+  }
+]
